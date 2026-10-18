@@ -5,7 +5,11 @@ ___________________________________________
 In this game, your objectives is to collect as most trash as possible,
 you can also convert these trash to coin and exchange them for goods 
 in the shop
+
+
 ![Make It Clean Game Title Screen](resources/Main.png)
+
+
 ___________________________________________
 *How to use save codes:
 - Go to Settings -> choose Save Code
